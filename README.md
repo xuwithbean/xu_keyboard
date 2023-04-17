@@ -1,2 +1,3 @@
 # xu_keyboard
-my own keyboard plan
+键盘使用频繁，但是普通键盘怎么可能满足我，所以要做就做一把功能独特的
+
